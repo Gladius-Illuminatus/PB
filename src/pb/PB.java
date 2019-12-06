@@ -21,7 +21,7 @@ public class PB extends Application{
 
 		@Override
 		public void start(Stage arg0) throws Exception {
-			
+			//
 			//Variables
 			String titleOfWindow="temp";
 			String titleOfGUI="Fahrkartenautomat";
